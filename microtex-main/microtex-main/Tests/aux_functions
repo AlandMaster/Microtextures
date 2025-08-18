@@ -1,0 +1,9 @@
+full_filenames = [
+    'main_executable.py',
+    'model.stl',
+    'pointcloud.dat'
+]
+
+# takes a list of full filenames and returns a list of filenames without the extension
+for file in full_filenames:
+    name = '.'.join(file.split('.')[0:-1])

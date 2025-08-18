@@ -1,0 +1,21 @@
+name: snowstorm
+channels:
+  - conda-forge
+  - cadquery
+  - defaults
+dependencies:
+  - cadquery=master
+  - cq-editor=master
+  - trimesh
+  - polyscope
+  - numpy-stl
+  - git
+  - scipy
+  - networkx
+  - pip
+  - pip: 
+    - ansys-fluent-core
+    - ansys-fluent-visualization
+  
+  
+prefix: F:\anaconda3\envs\snowstorm

@@ -1,0 +1,11 @@
+[filepaths]
+models = 'E:\Summer Placement\Summer Placement Testbed\'
+csv = 'E:\Summer Placement\Summer Placement Testbed\'
+ansys_scdm = 'E:\ANSYS Inc\ANSYS Student\v232\scdm\'
+real_textures = 'E:Summer Placement\Decimate\'
+
+[dimensions]
+
+[ansys]
+version = '23.2.0'
+
